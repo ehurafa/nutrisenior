@@ -1,0 +1,1481 @@
+
+@media (min-width:1600px)   { 
+	.full-banner-texto .texto .inner{	
+	  max-width:376px;	 
+	}
+	#banner-home .texto .inner{	
+	  max-width:376px;	 
+	}
+	.bloco-marcas .produtos .head .inner,
+	.bloco-marcas .produtos .foto .inner,
+	#nossas-marcas-home .produtos .descricao .inner{
+		max-width:470px;	
+	}
+}
+@media (min-width: 1300px) and (max-width: 1599px)  {
+
+}
+
+@media (min-width: 1200px) and (max-width: 1299px)  { 
+	.full-banner-texto .texto .inner{	
+	  max-width:405px;	 
+	}
+	#banner-home .texto .inner{	
+	  max-width:405px;	 
+	}
+	.bloco-marcas .produtos .head .inner,
+	.bloco-marcas .produtos .foto .inner,
+	#nossas-marcas-home .produtos .descricao .inner{
+		max-width:470px;	 
+	}
+
+
+}
+
+@media (min-width: 992px) and (max-width:1199px){ 
+	header .logo h1, header .logo span{
+		margin:0;
+	}
+	.full-banner-texto .texto .inner{	
+	  max-width:410px;	 
+	}
+	#banner-home .texto .inner{	
+	  max-width:410px;	 
+	}
+	.bloco-marcas .produtos .head .inner,
+	.bloco-marcas .produtos .foto .inner,
+	#nossas-marcas-home .produtos .descricao .inner{
+		max-width:470px;	
+	}
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	header .logo h1, header .logo span{
+		margin:0;
+	}
+	header .menu .telefone{
+		position: absolute;
+		float:none;
+		top:-50px;
+		right:20px;
+		color:#fff;
+		font-size:16px;
+	}  
+	.title h1, .title h2, .title h3, .title h4, .title h5, .title h6{
+		font-size:20px;
+	}
+	.full-banner-texto .texto .inner{	
+	  max-width:312px;	 
+	}
+	#banner-home .texto .inner{	
+	  max-width:312px;	 
+	}
+	.bloco-marcas .produtos .head .inner,
+	.bloco-marcas .produtos .foto .inner,
+	#nossas-marcas-home .produtos .descricao .inner{
+		max-width:470px;	
+	}
+  	
+}
+
+@media (min-width: 481px) and (max-width: 767px) {	
+	.title {
+		text-align:center;	
+	}
+	.title h1, .title h2, .title h3, .title h4, .title h5, .title h6{
+		font-size:18px;
+	}
+
+	.ver-mais{
+		text-align:center;
+	}
+
+	header .logo{ 
+		width:100%;
+		float: left;
+		text-align:center;
+		min-height: auto;
+		line-height:50px;
+		padding-top:20px;
+	}
+	header .logo h1,
+	header .logo span{   
+	  margin:0 0 0 ;	 
+	}
+	header .logo img{ 
+		width:auto;
+		max-width:100%;
+	}
+
+	header  .redes-sociais {
+		width:100%;
+		float: left;
+		text-align:left;	
+		min-height: auto;
+		line-height:50px;
+		padding-top:0;		
+	}
+
+	header  .redes-sociais a{
+		margin:0 15px 0 0;		
+	}
+
+	header  .menu .container{
+		padding-left:0; padding-right:0;		
+	}
+
+	header  .menu a{
+		display:none;		
+	}
+	header  .menu nav{
+		width:100%;		
+	}
+	header .menu .select{    
+ 		display:block;
+	}
+
+	header .menu .telefone{    
+ 		position: absolute;
+ 		right:0;
+ 		top:-60px;
+ 		color:#fff;
+ 		font-size:17px;
+	}
+	#banner-home  {
+		height: auto !important;
+	}
+	#banner-home .slide{
+		padding-bottom:20px;
+	}
+	#banner-home .texto {
+		height: auto !important;
+	}
+	.full-banner-texto{
+		padding-top:50px;
+		height: auto !important;
+	}
+	
+	.full-banner-texto .texto,
+	#banner-home .texto .inner,
+	.full-banner-texto .texto .inner{
+		width:100%;
+		padding:0 15px;
+		float: right;
+		max-width:100%;
+		text-align:center;
+		height: auto !important;
+	}
+
+	.full-banner-texto .imagem {
+		height:auto !important;
+		float: left;
+		display:block;
+		width:100%;
+		background: transparent !important;
+		padding-bottom:20px;
+	}
+
+	.full-banner-texto .imagem .mask{
+		display:none;
+	}
+
+
+	.full-banner-texto .imagem img{
+		display:block;
+	}
+	
+	#banner-home .controls{
+		display:none;
+	}
+
+	.full-banner-texto .texto .inner br{
+		display:none;
+	}
+
+	.boxes .col-sm-4 {  
+		width:33.333%;
+	}
+
+	.boxes .box img{
+		width:100%;
+	}
+	.boxes .box .texto h2,
+	.boxes .box .texto h3,
+	.boxes .box .texto h4{
+		font-size:13px;
+		padding: 0 5px;
+	}
+	.page-home .bloco-marcas .nossas-marcas{ 
+		padding-left:15px; padding-right:15px;
+	}
+	.page-home .bloco-marcas .nossas-marcas{
+		text-align:center;
+	}
+	.page-home .bloco-marcas .nossas-marcas .col-center p{
+		line-height:20px;
+		padding-top:10px; padding-bottom:10px;
+	}
+	.bloco-marcas .nossas-marcas-home .logo, .page-home .bloco-marcas .col-right{
+		text-align:center;
+	}
+	.bloco-nossas-marcas .nossas-marcas-home{
+		padding:15px 0 25px;
+	}
+
+	.bloco-nossas-marcas .nossas-marcas-home .logo {
+		text-align:center;
+		padding-top:10px;
+	}
+	.bloco-nossas-marcas .nossas-marcas-home .logo img{
+		float:none;
+	}
+	.bloco-marcas .produtos .head .inner,
+	.bloco-marcas .produtos .foto .inner,
+	.bloco-marcas .produtos .descricao .inner,
+	#nossas-marcas-home .produtos .descricao .inner { 
+		width:100%;
+		max-width:100%;
+	}
+	.bloco-marcas .produtos .foto .inner { 
+		padding: 0 15px;
+	}
+	.bloco-marcas .produtos .foto .inner img{
+		width: auto;
+		max-width:100%;
+	}
+	.bloco-marcas .produtos .descricao > div article{
+		text-align:center;
+	}
+	.bloco-marcas .produtos .descricao > div .comprar{
+		width:100%;
+		height: auto;
+		text-align:center;
+	}
+
+	
+	.bloco-marcas .produtos .descricao > div .info{ 
+		width:100%;
+		height: auto;
+		text-align:center;
+		padding:20px 0;
+	}
+
+
+	.bloco-marcas .produtos .descricao > div .comprar .btn{
+		float:none;
+		display: inline-block;
+	}
+	.page-marcas #banner .faixa{
+		text-align:center;
+	}
+
+	.page-home #noticias-e-imprensa .titulo .title{
+		margin-bottom:30px;
+	}
+
+	.page-home #noticias-e-imprensa .titulo .title{
+		margin-bottom:30px;
+	}
+
+	.bloco-noticias .noticias .texto{
+		text-align:center;
+	}
+	.bloco-noticias .noticias .texto .title h3{
+		font-size:13px;
+	}
+	.bloco-noticias .noticias .texto .ver-mais{
+		margin-bottom:30px; margin-top:20px;
+	}
+
+	.bloco-noticias .noticias figure img{
+		width:100%;
+	}
+	.bloco-noticias .noticias .texto .title small::after {
+		left:50%;
+		margin-left:-19px;
+	}
+	.bloco-noticias .noticias .col	{  
+		width:25%;
+	}
+	#sobre{
+		text-align:center;
+		padding: 0 15px;
+		height: auto !important;
+	}
+	#sobre .bg{
+		height: auto !important;
+		background: transparent !important;
+		text-align: center;
+		padding-bottom:40px;
+	}
+	#sobre .col-right .bg img{
+		display: inline-block;
+	}
+
+	#nossos-diferenciais.boxes .col-sm-6,
+	#nossos-diferenciais.boxes .col-xs-12{
+		width:50%;
+	}
+	#bloco-saiba-mais{
+		text-align:center;
+		padding: 0 15px;
+	}
+
+	#bloco-saiba-mais h5 br{
+		display:none;
+	}
+	#bloco-saiba-mais .faixa-2{
+		padding-top:40px 0;
+	}
+	#bloco-saiba-mais .faixa-2 .row .col{
+		padding:20px;
+		min-height: auto;
+	}
+	#lideranca-competitiva .imagem{
+		width:50%;
+		text-align:center;
+	}
+	#lideranca-competitiva .imagem img{
+		width:100%;
+	}
+
+	#lideranca-competitiva .texto{
+		width:50%;
+		text-align:left;
+		padding-right:15px;
+	}
+	#lideranca-competitiva .texto .title{
+
+		text-align:left;
+	}
+
+	#lideranca-competitiva .texto p{	
+		text-align:left;
+	}
+
+
+	#lideranca-competitiva .texto p br{
+		display:none;
+	}
+
+	.page-marcas .mais-sobre-a-marca .imagem{
+		text-align: center;
+	}
+	.page-marcas .mais-sobre-a-marca .info{
+		border:0;
+		padding-top:10px;
+	}
+	.page-marcas #sobre-a-marca .texto{
+		text-align:center;
+	}
+	.page-marcas .produtos{
+		text-align:center;
+	}
+	.page-marcas .produtos .produto{
+		width:49%;
+		display: inline-block;
+		float:none;
+	}
+	.page-diferenciais-completo #representante p br{
+		display:none;
+	}
+	.page-diferenciais-completo #profissionais-epecializados{
+		text-align:center;
+		height: auto !important;
+	}
+	.page-diferenciais-completo #profissionais-epecializados .title {
+		padding:0 0 20px 0;
+	}
+	.page-diferenciais-completo #profissionais-epecializados .title br{
+		display:none;
+	}
+	.page-diferenciais-completo #profissionais-epecializados .col-right .bg{
+		height: auto !important;
+	}
+	.page-diferenciais-completo #representante{
+		text-align:center;
+	}
+	.page-diferenciais-completo #selo-de-qualidade{
+		padding:34px 0;
+		height: auto !important;
+	}
+	.page-diferenciais-completo #selo-de-qualidade .bg{
+		height: auto !important;
+	}
+	.page-diferenciais-completo #selo-de-qualidade .col-left{
+		text-align:right;
+		padding: 0 15px;
+		width:70%;
+	}
+
+	.page-diferenciais-completo #selo-de-qualidade .col-left .title{
+		text-align:right;
+        padding-top:24px;
+	}
+
+	.page-diferenciais-completo #selo-de-qualidade .col-right{
+	
+		width:30%;
+	}
+	.page-diferenciais-completo #selo-de-qualidade .col-right .bg{
+	  background: transparent !important;
+	  text-align:center;
+	 padding-top:30px;
+	}
+	.page-diferenciais-completo #selo-de-qualidade .col-right img{
+	  display:inline-block;
+	  max-width:100%;
+	  float:none;
+	}
+
+	.noticia-interna .conteudo > .left{
+		width:20%;
+	}
+	.noticia-interna .conteudo > .right{
+		width:80%;
+	}
+	.page-marcas .mais-sobre-a-marca .logo{
+		width:100%;
+		text-align:center;
+	}
+	.page-marcas .mais-sobre-a-marca .logo img{
+		display: inline-block;
+		float:none;
+	}
+	.page-marcas .mais-sobre-a-marca .info{
+		width:100%;
+	}
+	.page-marcas .mais-sobre-a-marca .texto{
+		text-align:center;
+	}
+	.page-marcas .mais-sobre-a-marca .texto br{
+		display:none;
+	}
+	.page-marcas #banner .faixa{
+		height: auto;
+	}
+	.noticia-interna .data .dia{
+		padding:0;
+		font-size:16px;
+		color:#706B68;
+		letter-spacing:1px;
+		text-align:right;
+	}
+	.noticia-interna .data .mes{
+		padding:0;
+		font-size:16px;
+		letter-spacing:1px;
+		text-align:right;
+	}
+	.noticia-interna .data .ano{
+		padding:0;
+		font-size:16px;
+		letter-spacing:1px;
+		text-align:right;
+	}
+	.page-noticias.interna .conteudo > .left .compartilhe nav{
+		padding:12px 0 0 0;
+	}
+	.page-localizacao #banner .email::before,
+	.page-localizacao #banner .endereco::before,
+	.page-fale-conosco #banner .email::before,
+	.page-fale-conosco #banner .endereco::before{
+		left:50%;
+		margin-left:-30px;
+	}
+	.page-localizacao .ver-mapa{
+		width:100%;
+	}
+	footer.comum .redes-sociais{
+		padding-bottom:20px;
+	}
+	.page-fale-conosco #formulario .form{
+		padding: 015px;
+	}
+	.page-fale-conosco #formulario .form form ul li label{
+		width:100%;
+	}
+	.page-fale-conosco #formulario .form form ul li input[type="text"],
+	.page-fale-conosco #formulario .form form ul li textarea{
+		width:100%;
+		padding:0;
+	}
+	.page-fale-conosco .ver-mapa{
+		width:100%;
+	}
+
+}
+
+@media (min-width: 361px) and (max-width: 480px) {	 
+	.title {
+		text-align:center;	
+	}
+	.title h1, .title h2, .title h3, .title h4, .title h5, .title h6{
+		font-size:18px;
+	}
+
+	.ver-mais{
+		text-align:center;
+	}
+
+	header .logo{ 
+		width:100%;
+		float: left;
+		text-align:center;
+		min-height: auto;
+		line-height:50px;
+		padding-top:20px;
+	}
+	header .logo h1,
+	header .logo span{   
+	  margin:0 0 0 ;	 
+	}
+	header .logo img{ 
+		width:auto;
+		max-width:100%;
+	}
+
+	header  .redes-sociais {
+		width:100%;
+		float: left;
+		text-align:left;	
+		min-height: auto;
+		line-height:50px;
+		padding-top:0;		
+	}
+
+	header  .redes-sociais a{
+		margin:0 15px 0 0;		
+	}
+
+	header  .menu .container{
+		padding-left:0; padding-right:0;		
+	}
+
+	header  .menu a{
+		display:none;		
+	}
+	header  .menu nav{
+		width:100%;		
+	}
+	header .menu .select{    
+ 		display:block;
+	}
+
+	header .menu .telefone{    
+ 		position: absolute;
+ 		right:0;
+ 		top:-60px;
+ 		color:#fff;
+ 		font-size:17px;
+	}
+	#banner-home  {
+		height: auto !important;
+	}
+	#banner-home .slide{
+		padding-bottom:20px;
+	}
+	#banner-home .texto {
+		height: auto !important;
+	}
+	.full-banner-texto{
+		padding-top:50px;
+		height: auto !important;
+	}
+
+	
+	.full-banner-texto .texto,
+	#banner-home .texto .inner,
+	.full-banner-texto .texto .inner{
+		width:100%;
+		padding:0 15px;
+		float: right;
+		max-width:100%;
+		text-align:center;
+		height: auto !important;
+	}
+
+	.full-banner-texto .imagem {
+		height:auto !important;
+		float: left;
+		display:block;
+		width:100%;
+		background: transparent !important;
+		padding-bottom:20px;
+	}
+
+	.full-banner-texto .imagem .mask{
+		display:none;
+	}
+
+
+	.full-banner-texto .imagem img{
+		display:block;
+	}
+	
+	#banner-home .controls{
+		display:none;
+	}
+
+	.full-banner-texto .texto .inner br{
+		display:none;
+	}
+
+	/*.boxes .col-sm-4 {  
+		width:33.333%;
+	}*/
+	.boxes .box{
+		margin-bottom:20px;
+	}
+
+	.boxes .box img{
+		width:100%;
+	}
+	.boxes .box .texto h2,
+	.boxes .box .texto h3,
+	.boxes .box .texto h4{
+		font-size:13px;
+		padding: 0 5px;
+	}
+	.page-home .bloco-marcas .nossas-marcas{ 
+		padding-left:15px; padding-right:15px;
+	}
+	.page-home .bloco-marcas .nossas-marcas{
+		text-align:center;
+	}
+	.page-home .bloco-marcas .nossas-marcas .col-center p{
+		line-height:20px;
+		padding-top:10px; padding-bottom:10px;
+	}
+	.bloco-marcas .nossas-marcas-home .logo, .page-home .bloco-marcas .col-right{
+		text-align:center;
+	}
+	.bloco-nossas-marcas .nossas-marcas-home{
+		padding:15px 0 25px;
+	}
+
+	.bloco-nossas-marcas .nossas-marcas-home .logo {
+		text-align:center;
+		padding-top:10px;
+	}
+	.bloco-nossas-marcas .nossas-marcas-home .logo img{
+		float:none;
+	}
+	.bloco-marcas .produtos .head .inner,
+	.bloco-marcas .produtos .foto .inner,
+	.bloco-marcas .produtos .descricao .inner,
+	#nossas-marcas-home .produtos .descricao .inner { 
+		width:100%;
+		max-width:100%;
+	}
+	.bloco-marcas .produtos .foto .inner { 
+		padding: 0 15px;
+	}
+	.bloco-marcas .produtos .foto .inner img{
+		width: auto;
+		max-width:100%;
+	}
+	.bloco-marcas .produtos .descricao > div article{
+		text-align:center;
+	}
+	.bloco-marcas .produtos .descricao > div .comprar{
+		width:100%;
+		height: auto;
+		text-align:center;
+	}
+
+	
+	.bloco-marcas .produtos .descricao > div .info{ 
+		width:100%;
+		height: auto;
+		text-align:center;
+		padding:20px 0;
+	}
+
+
+	.bloco-marcas .produtos .descricao > div .comprar .btn{
+		float:none;
+		display: inline-block;
+	}
+	.page-marcas #banner .faixa{
+		text-align:center;
+	}
+
+	.page-home #noticias-e-imprensa .titulo .title{
+		margin-bottom:30px;
+	}
+
+	.page-home #noticias-e-imprensa .titulo .title{
+		margin-bottom:30px;
+	}
+	.bloco-noticias .noticias {
+		text-align:center;
+	}
+	.bloco-noticias .noticias .texto{
+		text-align:center;
+	}
+	.bloco-noticias .noticias .texto .ver-mais{
+		margin-bottom:30px; margin-top:20px;
+	}
+
+	.bloco-noticias .noticias figure img{
+		width:100%;
+	}
+	.bloco-noticias .noticias .texto .title small::after {
+		left:50%;
+		margin-left:-19px;
+	}
+	.bloco-noticias .noticias .col	{  
+		width:40%;
+		display:inline-block;
+		float:none;
+		margin-bottom:30px;
+	}
+	#sobre{
+		text-align:center;
+		padding: 0 15px;
+		height: auto !important;
+	}
+	#sobre .bg{
+		height: auto !important;
+		background: transparent !important;
+		text-align: center;
+		padding-bottom:40px;
+	}
+	#sobre .col-right .bg img{
+		display: inline-block;
+	}
+
+	#nossos-diferenciais.boxes .col-sm-6,
+	#nossos-diferenciais.boxes .col-xs-12{
+		width:100%;
+	}
+	#bloco-saiba-mais{
+		text-align:center;
+		padding: 0 15px;
+	}
+
+	#bloco-saiba-mais h5 br{
+		display:none;
+	}
+	#bloco-saiba-mais .faixa-2{
+		padding-top:40px 0;
+	}
+	#bloco-saiba-mais .faixa-2 .row .col{
+		padding:20px;
+		min-height: auto;
+	}
+	#lideranca-competitiva .imagem{
+		width:100%;
+		text-align:center;
+	}
+	#lideranca-competitiva .imagem img{
+		width:100%;
+	}
+
+	#lideranca-competitiva .texto{
+		width:100%;
+		text-align:left;
+		padding-right:15px;
+		padding-top:20px;
+	}
+	#lideranca-competitiva .texto .title{
+
+		text-align:left;
+	}
+
+	#lideranca-competitiva .texto p{	
+		text-align:left;
+	}
+
+
+	#lideranca-competitiva .texto p br{
+		display:none;
+	}
+	.page-marcas.interna #banner .comprar-pdf .pdf figure{
+		width:100%;
+	}
+
+	.page-marcas .mais-sobre-a-marca .imagem{
+		text-align: center;
+	}
+	.page-marcas .mais-sobre-a-marca .info{
+		border:0;
+		padding-top:10px;
+	}
+	.page-marcas #sobre-a-marca .texto{
+		text-align:center;
+	}
+	.page-marcas #banner .faixa{
+		height: auto;
+	}
+	.page-marcas .mais-sobre-a-marca .logo{
+		width:100%;
+	}
+	.page-marcas .mais-sobre-a-marca .info{
+		width:100%;
+	}
+	.page-marcas .mais-sobre-a-marca .texto{
+		text-align:center;
+	}
+	.page-diferenciais-completo #representante p br{
+		display:none;
+	}
+	.page-diferenciais-completo #profissionais-epecializados{
+		text-align:center;
+		height: auto !important;
+	}
+	.page-diferenciais-completo #profissionais-epecializados .title {
+		padding:0 0 20px 0;
+	}
+	.page-diferenciais-completo #profissionais-epecializados .title br{
+		display:none;
+	}
+	.page-diferenciais-completo #profissionais-epecializados .col-right .bg{
+		height: auto !important;
+	}
+	.page-diferenciais-completo #representante{
+		text-align:center;
+	}
+	.page-diferenciais-completo #selo-de-qualidade{
+		padding:34px 0;
+		height: auto !important;
+	}
+	.page-diferenciais-completo #selo-de-qualidade .bg{
+		height: auto !important;
+	}
+	.page-diferenciais-completo #selo-de-qualidade .col-left{
+		text-align:center;
+		padding: 0 15px;
+		width:100%;
+	}
+
+	.page-diferenciais-completo #selo-de-qualidade .col-left .title{
+		text-align:center;
+        padding-top:24px;
+	}
+
+	.page-diferenciais-completo #selo-de-qualidade .col-right{
+	
+		width:100%;
+	}
+	.page-diferenciais-completo #selo-de-qualidade .col-right .bg{
+	  background: transparent !important;
+	  text-align:center;
+	 padding-top:30px;
+	}
+	.page-diferenciais-completo #selo-de-qualidade .col-right img{
+	  display:inline-block;
+	  max-width:100%;
+	  float:none;
+	}
+
+	.noticia-interna .conteudo .data{
+		text-align:center;
+	}
+	.noticia-interna .conteudo .data > h4{	
+		float:none;
+		display:inline-block;
+        width: auto;
+		font-size:20px; font-weight:900;
+		text-align:center;
+		color:#706B68;
+		letter-spacing: 1px;
+		padding:0;
+		padding: 0 15px;
+	}
+	.noticia-interna .conteudo .data > .mes,
+	.noticia-interna .conteudo .data > .ano{	
+		border-left:1px dotted #706B68;
+	}
+	.page-noticias.interna .conteudo > .left .compartilhe h5{	
+		margin:20px 0 0 0;
+		padding:0;
+		text-align:center;
+	}
+	.page-noticias.interna .conteudo > .left .compartilhe nav{
+		padding:20px 0 0 0;
+		text-align:center;
+	}
+	.noticia-interna .conteudo > .right{
+		padding: 0 15px;
+	}
+	.noticia-interna .post{
+		text-align:center;
+	}
+	.noticia-interna .post br{
+		display:none;
+	}
+	.noticia-interna .tags-share .tags {
+		text-align:center;
+	}
+	.noticia-interna .tags-share .tags h6{
+		width:100%;
+	}
+	.noticia-interna .tags-share .share .compartilhe{	
+		width:100%;
+		text-align:center;
+		margin-top:10px; margin-bottom:20px;
+	}
+	.noticia-interna .autor figure{
+		width:100%;
+		text-align:center;
+		padding: 0 0 30px 0;
+	}
+	.noticia-interna .autor figure img{
+		float:none;
+		display:inline;
+	}
+	.noticia-interna .autor .right{
+		text-align:center;
+	}
+	.noticia-interna .autor .right h3{
+		margin:0 0 10px 0;
+	}
+	.bloco-noticias .noticias .texto .ver-mais{
+		text-align:center;
+	}
+	.compartilhe nav a{
+		margin:0 5px;
+	}
+	.page-partner-solution .faixa{
+		text-align:center;
+	}
+	.page-localizacao #banner .email::before,
+	.page-localizacao #banner .endereco::before,
+	.page-fale-conosco #banner .email::before,
+	.page-fale-conosco #banner .endereco::before{
+		left:50%;
+		margin-left:-30px;
+	}
+	.page-localizacao .ver-mapa{
+		width:100%;
+	}
+	footer.comum .redes-sociais{
+		padding-bottom:20px;
+	}
+	.page-fale-conosco #formulario .form{
+		padding: 015px;
+	}
+	.page-fale-conosco #formulario .form form ul li label{
+		width:100%;
+	}
+	.page-fale-conosco #formulario .form form ul li input[type="text"],
+	.page-fale-conosco #formulario .form form ul li textarea{
+		width:100%;
+		padding:0;
+	}
+	.page-fale-conosco .ver-mapa{
+		width:100%;
+	}
+}
+
+@media (max-width: 360px)  {
+	
+	.title {
+		text-align:center;	
+	}
+	.title h1, .title h2, .title h3, .title h4, .title h5, .title h6{
+		font-size:18px;
+	}
+
+	.ver-mais{
+		text-align:center;
+	}
+
+	header .logo{ 
+		width:100%;
+		float: left;
+		text-align:center;
+		min-height: auto;
+		line-height:50px;
+		padding-top:20px;
+	}
+	header .logo h1,
+	header .logo span{   
+	  margin:0 0 0 ;	 
+	}
+	header .logo img{ 
+		width:auto;
+		max-width:100%;
+	}
+
+	header  .redes-sociais {
+		width:100%;
+		float: left;
+		text-align:left;	
+		min-height: auto;
+		line-height:50px;
+		padding-top:0;		
+	}
+
+	header  .redes-sociais a{
+		margin:0 15px 0 0;		
+	}
+
+	header  .menu .container{
+		padding-left:0; padding-right:0;		
+	}
+
+	header  .menu a{
+		display:none;		
+	}
+	header  .menu nav{
+		width:100%;		
+	}
+	header .menu .select{    
+ 		display:block;
+	}
+
+	header .menu .telefone{    
+ 		position: absolute;
+ 		right:0;
+ 		top:-60px;
+ 		color:#fff;
+ 		font-size:14px;
+	}
+	#banner-home  {
+		height: auto !important;
+	}
+	#banner-home .slide{
+		padding-bottom:20px;
+	}
+	#banner-home .texto {
+		height: auto !important;
+	}
+	#banner-home .texto .inner{
+		max-width:100%;
+		text-align:center;
+	}
+	.full-banner-texto{
+		padding-top:50px;
+	}
+	.full-banner-texto .texto{
+		width:100%;
+		padding:0 15px;
+		float: right;
+	}
+
+	.full-banner-texto .imagem {
+		height:auto !important;
+		float: left;
+		/*display:none;*/
+		width:100%;
+		background: transparent !important;
+		padding-bottom:20px;
+	}
+	.full-banner-texto .imagem .mask{
+		display:none;
+	}
+	.full-banner-texto .imagem img{
+		display:block;
+	}
+	#banner-home .texto .inner{
+		padding-top:0;
+	}
+
+	#banner-home .controls{
+		display:none;
+	}
+
+	.full-banner-texto .texto .inner{
+		text-align:center;
+		padding-top:0;
+	}
+	.full-banner-texto .texto .inner br{
+		display:none;
+	}
+
+	.boxes .box{
+		margin-bottom:20px;
+	}
+	.boxes .box figure img{
+		width:100%;
+	}
+	.page-home .bloco-marcas .nossas-marcas{
+		padding-left:15px; padding-right:15px;
+	}
+	.page-home .bloco-marcas .nossas-marcas{
+		text-align:center;
+	}
+	.page-home .bloco-marcas .nossas-marcas .col-center p{
+		line-height:20px;
+		padding-top:10px; padding-bottom:10px;
+	}
+	.bloco-marcas .nossas-marcas-home .logo, .page-home .bloco-marcas .col-right{
+		text-align:center;
+	}
+	.bloco-nossas-marcas .nossas-marcas-home{
+		padding:15px 0 25px;
+	}
+
+	.bloco-nossas-marcas .nossas-marcas-home .logo {
+		text-align:center;
+		padding-top:10px;
+	}
+	.bloco-nossas-marcas .nossas-marcas-home .logo img{
+		float:none;
+	}
+	.bloco-marcas .produtos .foto .inner {
+		padding: 0 15px;
+	}
+	.bloco-marcas .produtos .foto .inner img{
+		width: auto;
+		max-width:100%;
+	}
+	.bloco-marcas .produtos .descricao > div article{
+		text-align:center;
+	}
+	.bloco-marcas .produtos .descricao > div .comprar{
+		width:100%;
+		height: auto;
+		text-align:center;
+	}
+
+	
+	.bloco-marcas .produtos .descricao > div .info{ 
+		width:100%;
+		height: auto;
+		text-align:center;
+		padding:20px 0;
+	}
+
+
+	.bloco-marcas .produtos .descricao > div .comprar .btn{
+		float:none;
+		display: inline-block;
+	}
+
+	.page-home #noticias-e-imprensa .titulo .title{
+		margin-bottom:30px;
+	}
+	.bloco-noticias .noticias .texto{
+		text-align:center;
+	}
+	.bloco-noticias .noticias .texto .ver-mais{
+		margin-bottom:30px; margin-top:20px;
+	}
+
+	.bloco-noticias .noticias figure img{
+		width:100%;
+	}
+	.bloco-noticias .noticias .texto .title small::after {
+		left:50%;
+		margin-left:-19px;
+	}
+
+	.page-home #sobre{
+		padding: 0 15px;
+		text-align:center;
+		height: auto !important;
+	}
+	#sobre .col-left{
+		padding-bottom:18px;
+	}
+	#sobre .col-right{
+		margin-bottom:54px;
+	}
+	#sobre .col-right .bg{
+		height: auto !important;
+		background:transparent !important;
+	}
+	#sobre .col-right .bg img{
+		display:block;
+	}
+	footer.home .rodape .endereco p{
+		font-size:14px;
+	}
+	.bloco-missao-visao-e-valores article br{
+		display:none;
+	}
+	footer.comum .redes-sociais{
+		padding-bottom:20px;
+	}
+	#bloco-saiba-mais .faixa-2 .row .col{
+		padding-top:54px;
+	}
+	#bloco-saiba-mais .faixa-2 .row .col{
+		text-align:center;
+	}
+
+	.page-empresa-completa #lideranca-competitiva img{
+		width:100%;
+	}
+	.page-empresa-completa #lideranca-competitiva .texto{
+		margin-top:30px;
+	}
+
+	/*.full-banner,
+	.full-banner .texto,
+	.full-banner .imagem{*/
+	.full-banner,
+	.full-banner .texto{
+		height: auto !important;
+	}
+	
+	.page-marcas #banner .faixa{
+		text-align:center;
+	}
+
+	.page-marcas.interna #banner .texto .cor{
+		position:relative;
+	}
+	.page-marcas.interna #banner .texto .cor span{
+		float:none;
+		width:50px;
+		left:50%;
+		margin-left:-25px;
+		position: absolute;
+		top:0;
+	}
+
+	.page-marcas.interna #banner .comprar-pdf{
+		margin:10px 0;
+
+	}
+
+	.page-marcas.interna #banner .comprar-pdf .comprar{
+		width:100%;
+
+	}
+
+	.page-marcas.interna #banner .comprar-pdf .pdf{
+		width:100%;
+		border:0;
+	}
+	.page-marcas.interna #banner .comprar-pdf .pdf figure{
+		width:100%;
+		padding:20px 0;
+	}
+	.page-marcas #banner .faixa{
+		height:auto;
+	}
+	.page-marcas .produtos .box .comprar{
+		width:100%;
+		margin-top:15px;
+	}
+	.page-marcas .produtos .box .info{
+		width:100%;
+		text-align:center;
+		padding-bottom:20px;
+	}
+	.page-marcas .produtos .box .info .ver-mais{
+		float:none;
+		display:inline-block;
+		width:75px;
+	}
+
+	.page-marcas #sobre-a-marca,
+	.page-marcas #sobre-a-marca .faixa .container{
+		
+		display:block;
+	}
+	.page-marcas #sobre-a-marca .faixa .container > div{
+		display:block;
+
+	}
+	.page-marcas #sobre-a-marca .faixa .container .logo-marca img{
+		width:100%;
+		display:inline;
+	}
+	.page-marcas .mais-sobre-a-marca .imagem{
+		padding: 0 15px;
+		width:100%;
+	}
+
+	
+	.page-marcas .mais-sobre-a-marca .logo{
+		padding: 40px 15px 0 15px;
+		width:100%;
+	}
+	.page-marcas .mais-sobre-a-marca .imagem img,
+	.page-marcas .mais-sobre-a-marca .logo img{
+		width:100%;
+	}
+	.page-marcas .mais-sobre-a-marca .info{
+		width:100%;
+		border:0;
+	}
+    .texto{
+		text-align:center;
+	}
+
+	.page-marcas .mais-sobre-a-marca .texto{
+		text-align:center;
+		padding-bottom:20px;
+	}
+	.page-marcas.interna #banner .texto .full.um h1, .page-marcas.interna #banner .texto .full.um .desc{
+		display:block;
+		width:100%;
+		text-align:center;
+	}
+	.page-marcas.interna #banner .texto .full.um .desc h2{
+		text-align:center;
+		display:block;
+		padding-top:15px;
+	}
+	.page-marcas #sobre-a-marca .faixa .container .logo-marca{
+		padding:0 15px;
+		width:100%;
+		text-align:center;
+
+	}
+
+	.page-marcas #sobre-a-marca .faixa .container div.logo-ns{
+		padding:0 15px;
+		width:100%;
+		text-align:center;
+		padding-top:25px;
+	}
+
+	.page-marcas #sobre-a-marca .faixa .container div.logo-ns img{
+		width: auto;
+		max-width:90%;
+		float:none;
+	}
+	.page-marcas #sobre-a-marca .faixa .container .logo-marca img{
+		width: auto;
+		max-width:90%;
+		float:none;
+
+	}
+
+	.page-marcas .mais-sobre-a-marca .imagem{
+		padding-top:50px;
+	}
+	.page-diferenciais-completo #representante{
+		text-align:center;
+	}
+
+	.boxes, .bg{
+		height: auto !important;
+	}
+	.page-diferenciais-completo #selo-de-qualidade .col-left{
+		text-align:center;
+		padding-left:15px;  padding-right:15px;
+	}
+	.noticia-interna .conteudo .data{
+		text-align:center;
+	}
+	.noticia-interna .conteudo .data > h4{	
+		float:none;
+		display:inline-block;
+        width: auto;
+		font-size:20px; font-weight:900;
+		text-align:center;
+		color:#706B68;
+		letter-spacing: 1px;
+		padding:0;
+		padding: 0 15px;
+	}
+	.noticia-interna .conteudo .data > .mes,
+	.noticia-interna .conteudo .data > .ano{	
+		border-left:1px dotted #706B68;
+	}
+	.page-noticias.interna .conteudo > .left .compartilhe h5{	
+		margin:20px 0 0 0;
+		padding:0;
+		text-align:center;
+	}
+	.page-noticias.interna .conteudo > .left .compartilhe nav{
+		padding:20px 0 0 0;
+		text-align:center;
+	}
+	.noticia-interna .conteudo > .right{
+		padding: 0 15px;
+	}
+	.noticia-interna .post{
+		text-align:center;
+	}
+	.noticia-interna .post br{
+		display:none;
+	}
+	.noticia-interna .tags-share .tags {
+		text-align:center;
+	}
+	.noticia-interna .tags-share .tags h6{
+		width:100%;
+	}
+	.noticia-interna .tags-share .share .compartilhe{	
+		width:100%;
+		text-align:center;
+		margin-top:10px; margin-bottom:20px;
+	}
+	.noticia-interna .autor figure{
+		width:100%;
+		text-align:center;
+		padding: 0 0 30px 0;
+	}
+	.noticia-interna .autor figure img{
+		float:none;
+		display:inline;
+	}
+	.noticia-interna .autor .right{
+		text-align:center;
+	}
+	.noticia-interna .autor .right h3{
+		margin:0 0 10px 0;
+	}
+	.bloco-noticias .noticias .texto .ver-mais{
+		text-align:center;
+	}
+	.compartilhe nav a{
+		margin:0 5px;
+	}
+	.page-partner-solution .faixa{
+		text-align:center;
+	}
+	.page-localizacao #banner .email::before,
+	.page-localizacao #banner .endereco::before,
+	.page-fale-conosco #banner .email::before,
+	.page-fale-conosco #banner .endereco::before{
+		left:50%;
+		margin-left:-30px;
+	}
+	.page-localizacao .ver-mapa,
+	.page-fale-conosco .ver-mapa{
+		width:100%;
+	}
+	.page-fale-conosco #formulario .form{
+		padding:0 15px;
+	}
+	.page-fale-conosco #formulario .form form ul li label{
+		width:100%;
+	}
+	.page-fale-conosco #formulario .form form ul li input[type="text"],
+	.page-fale-conosco #formulario .form form ul li textarea{
+		width:100%;
+		padding:0;
+	}
+	#bloco-saiba-mais{
+		text-align:center;
+		padding: 0 15px;
+	}
+
+	#bloco-saiba-mais h5 br{
+		display:none;
+	}
+	.page-diferenciais-completo #representante p br{
+		display:none;
+	}
+	.page-diferenciais-completo #profissionais-epecializados{
+		text-align:center;
+	}
+	.page-diferenciais-completo #selo-de-qualidade .col-right .bg{
+	  background: transparent !important;
+	  text-align:center;
+	 padding-bottom:54px;
+	}
+	.page-diferenciais-completo #selo-de-qualidade .col-right img{
+	  display:inline-block;
+	  max-width:100%;
+	  float:none;
+	}
+}
+
+
+
+
+
+
